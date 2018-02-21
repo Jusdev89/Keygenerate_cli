@@ -1,16 +1,15 @@
 {
   "name": "keygenerate_cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple CLI to create public address with its private key, for testing.",
   "main": "index.js",
   "scripts": {
     "generate": "node index.js",
     "gen": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Devon T. Wesley",
+  "license": "MIT",
   "dependencies": {
     "ethereumjs-util": "~5.1.4",
     "keythereum": "~1.0.2"
