@@ -5,7 +5,7 @@ A simple CLI to create public address with its private key, for testing.
 I wanted to build an easy tool for throw away keypairs.
  
 ## In action
-![GIF](./assets/keypair_gen.gif).
+![GIF](./assets/creating_keypair_qr.gif).
 
 ## Tech/framework used
 - [keythereum](https://github.com/ethereumjs/keythereum)

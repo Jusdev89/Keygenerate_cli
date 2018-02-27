@@ -13,7 +13,7 @@
   "dependencies": {
     "ethereumjs-util": "~5.1.4",
     "keythereum": "~1.0.2",
-    "picture-tube": "^1.0.0",
-    "qr-image": "^3.2.0"
+    "picture-tube": "~1.0.0",
+    "qr-image": "~3.2.0"
   }
 }
